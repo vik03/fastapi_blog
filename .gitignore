@@ -3,3 +3,6 @@ fastapi-env
 .DS_Store
 .vscode
 pyvenv.cfg
+Scripts
+Include
+Lib
